@@ -1,0 +1,192 @@
+{
+  "main": {
+    "name":"Moiz Ali Khan",
+    "occupation":"Web developer, programmer",
+    "description":"I design and program websites and web applications on react.",
+    "image":"profilepic.jpg",
+    "bio":"I'm MAKSTYLE119. Moiz Ali Khan. I'm a front end developer {Beginner}. my work is on React, JawaScript es6, Html, Css, Workpress, Adobe Photoshop, Construct 2, and many other language and places. I am about 17 year old. I start learning computer language at about 2 year ago in ARBRE IT SUPPORTED AND SOLUTION at about 2016. This is a greate place for learning computer languages and about programming.",
+    "email": "moizprince786@gmail.com",
+    "phone": "0317-1217991",
+    "address":{
+      "street":"35 C/R korangi",
+      "city":"karachi",
+      "state":"Pakistan",
+      "zip": "74900"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/MAKSTYLE119",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/Khan119Moiz",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://plus.google.com/113780473610123330945",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/makstyle119",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/moizalikhan119",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"Youtube",
+        "url":"https://www.youtube.com/channel/UCHDJXUheMZa0IxPH8zAkErQ?view_as=subscriber",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"The Perfect School",
+        "degree":"Matric Continue...",
+        "description":"Student of Matric In The Perfect School. I'm Study here about 7 year. now its my final year or should i say last year."
+      },
+      {
+        "school":"Arbre IT Supported and Solution",
+        "degree":"Wed Developer",
+        "graduated":"Dec 2017",
+        "description":"I'm study hee about 2 yaer ago. i learn here html, css, jawaScript, WordPress, Prestashop, adobe PhotoShop, Unity, Construct 2, and much more.Here i learn 2D, 3D game design and how to create them."
+      }
+    ],
+    "work":[
+      {
+        "company":"Arbre IT Supported and Solution",
+        "title":"student",
+        "years":"March 2017 - Present",
+        "description":"I'm study hee about 2 yaer ago. i learn here html, css, jawaScript, WordPress, Prestashop, adobe PhotoShop, Unity, Construct 2, and much more."
+      },
+      {
+        "company":"MAK STYLE 119 Studio",
+        "title":"Manager",
+        "years":"March 2016 - Present",
+        "description":"This Is My YouTube Channel. Name 'MAK STYLE 119', I will make some funny video with several peopel and some dubmash and whatsApp video Status in Short This is my hobbie."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Photoshop",
+        "level":"60%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"55%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"jawa Script",
+        "level":"75%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"Construct 2",
+        "level":"80%"
+      },
+      {
+        "name":"Unity",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Github Finder",
+        "description":"Github Finder application for ind a uer in github.",
+        "category":"Project",
+        "tags":"MAKSTYLE119, Github Finder",
+        "image":"abcd.jpg",
+        "url":"https://github.com/moizalikhan119/GitHub-Finder",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"BookList",
+        "description":" A simple app for create BookList and manage it. ",
+        "category":"project",
+        "tags":"MAKSTYLE119, BookList project",
+        "image":"bcde.jpg",
+        "url":"https://github.com/moizalikhan119/booklist-project",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"TaskList Project",
+        "description":"A simple Project for manage your task.",
+        "category":"Project",
+        "tags":"MAKSTYLE119, TASKLISK",
+        "image":"cdef.jpg",
+        "url":"https://github.com/moizalikhan119/Task-List-Project",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Contat maneger app",
+        "description":"A Simple App for manage Contact. Create by using react",
+        "category":"Project",
+        "tags":"MAKSTYLE119, ContactManger",
+        "image":"defg.jpg",
+        "url":"https://moizalikhan119.github.io/contactManegerByMAKSTYLE119/#/",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Mask sheet",
+        "description":"A simple project for get the basic concept of jawa script",
+        "category":"Project",
+        "tags":"MAKSTYLE119, TASKLISK",
+        "image":"efgh.jpg",
+        "url":"https://github.com/moizalikhan119/JS",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Working on project",
+        "image":"000.gif",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Working on project",
+        "image":"000.gif",
+        "modal":"#modal-05"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"He is an hard working and intelligent student.",
+        "user":"Sir. Sohail Khan"
+      },
+      {
+        "text":"He is consistent in his work.",
+        "user":"Mr. Ahsan"
+      }
+    ]
+  }
+}
