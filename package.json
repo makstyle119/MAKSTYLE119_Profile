@@ -2,15 +2,18 @@
   "name": "resumeviewer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://moizalikhan119.github.io/MAKSTYLE119_Profile",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "jquery": "^3.1.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2"
   },
   "scripts": {
+    "deploy":"npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
