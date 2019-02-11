@@ -4,7 +4,7 @@
     "occupation":"Web developer, programmer",
     "description":"I design and program websites and web applications on react.",
     "image":"profilepic.jpg",
-    "bio":"I'm MAKSTYLE119. Moiz Ali Khan. I'm a front end developer {Beginner}. my work is on React, JawaScript es6, Html, Css, Workpress, Adobe Photoshop, Construct 2, and many other language and places. I am about 17 year old. I start learning computer language at about 2 year ago in ARBRE IT SUPPORTED AND SOLUTION at about 2016. This is a greate place for learning computer languages and about programming.",
+    "bio":"I'm MAKSTYLE119. Moiz Ali Khan. I'm a front end developer {Beginner}. my work is on React, Java Script es6, Html, Css, Workpress, Adobe Photoshop, Construct 2, and many other language and places. I am about 17 year old. I start learning computer language at about 2 year ago in ARBRE IT SUPPORTED AND SOLUTION at about 2016. This is a greate place for learning computer languages and about programming.",
     "email": "moizprince786@gmail.com",
     "phone": "0317-1217991",
     "address":{
@@ -62,7 +62,7 @@
         "school":"Arbre IT Supported and Solution",
         "degree":"Wed Developer",
         "graduated":"Dec 2017",
-        "description":"I'm study hee about 2 yaer ago. i learn here html, css, jawaScript, WordPress, Prestashop, adobe PhotoShop, Unity, Construct 2, and much more.Here i learn 2D, 3D game design and how to create them."
+        "description":"I'm study here about 2 yaer ago. i learn here html, css, Java Script, Word Press , Presta Shop, adobe PhotoShop, Unity, Construct 2, and much more.Here i learn 2D, 3D game design and how to create them."
       }
     ],
     "work":[
@@ -70,7 +70,7 @@
         "company":"Arbre IT Supported and Solution",
         "title":"student",
         "years":"March 2017 - Present",
-        "description":"I'm study hee about 2 yaer ago. i learn here html, css, jawaScript, WordPress, Prestashop, adobe PhotoShop, Unity, Construct 2, and much more."
+        "description":"I'm study hee about 2 yaer ago. i learn here html, css, Java Script, Word Press , Presta Shop, adobe PhotoShop, Unity, Construct 2, and much more."
       },
       {
         "company":"MAK STYLE 119 Studio",
@@ -89,7 +89,7 @@
         "level":"55%"
       },
       {
-        "name":"Wordpress",
+        "name":"Word Press ",
         "level":"50%"
       },
       {
@@ -101,7 +101,7 @@
         "level":"80%"
       },
       {
-        "name":"jawa Script",
+        "name":"java Script",
         "level":"75%"
       },
       {
@@ -168,7 +168,7 @@
       {
         "title":"Working on project",
         "image":"000.gif",
-        "modal":"#modal-05"
+        "modal":"#modal-06"
       }
     ]
   },
