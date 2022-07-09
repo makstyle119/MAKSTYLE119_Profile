@@ -10,37 +10,37 @@ import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 
 class App extends Component {
-  constructor(props){
+  constructor(props) {
     super(props);
     this.state = {
       foo: 'bar',
-      resumeData:{}
-    }
+      resumeData: {},
+    };
   }
-  
-  getResumeData(){
+
+  getResumeData() {
     $.ajax({
-      url: 'https://moizalikhan119.github.io/MAKSTYLE119_Profile/resumeData.json',
-      dataType:'json',
+      url: 'https://makstyle119.github.io/MAKSTYLE119_Profile/resumeData.json',
+      dataType: 'json',
       cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
+      success: function (data) {
+        this.setState({ resumeData: data });
       }.bind(this),
-      error: function(xhr, status, err){
+      error: function (xhr, status, err) {
         console.log(err);
         alert(err);
-      }
+      },
     });
   }
 
-  componentDidMount(){
+  componentDidMount() {
     this.getResumeData();
   }
 
   render() {
     console.log(this.state.resumeData);
     return (
-      <div className="App">
+      <div className='App'>
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
