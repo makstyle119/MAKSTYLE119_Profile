@@ -5,8 +5,8 @@
     "description":"I design and program websites and web applications on react.",
     "image":"profilepic.jpg",
     "bio":"I'm MAKSTYLE119. Moiz Ali Khan. I'm a front end developer {Beginner}. my work is on React, Java Script es6, Html, Css, Workpress, Adobe Photoshop, Construct 2, and many other language and places. I am about 17 year old. I start learning computer language at about 2 year ago in ARBRE IT SUPPORTED AND SOLUTION at about 2016. This is a greate place for learning computer languages and about programming.",
-    "email": "moizprince786@gmail.com",
-    "phone": "0317-1217991",
+    "email": "mohammadmoizali28@gmail.com",
+    "phone": "0322-2407902",
     "address":{
       "street":"35 C/R korangi",
       "city":"karachi",
@@ -41,7 +41,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/moizalikhan119",
+        "url":"https://github.com/makstyle119",
         "className":"fa fa-github"
       },
       {
@@ -126,7 +126,7 @@
         "category":"Project",
         "tags":"MAKSTYLE119, Github Finder",
         "image":"abcd.jpg",
-        "url":"https://github.com/moizalikhan119/GitHub-Finder",
+        "url":"https://github.com/makstyle119/GitHub-Finder",
         "modal":"#modal-01"
       },
       {
@@ -135,7 +135,7 @@
         "category":"project",
         "tags":"MAKSTYLE119, BookList project",
         "image":"bcde.jpg",
-        "url":"https://github.com/moizalikhan119/booklist-project",
+        "url":"https://github.com/makstyle119/booklist-project",
         "modal":"#modal-02"
       },
       {
@@ -144,7 +144,7 @@
         "category":"Project",
         "tags":"MAKSTYLE119, TASKLISK",
         "image":"cdef.jpg",
-        "url":"https://github.com/moizalikhan119/Task-List-Project",
+        "url":"https://github.com/makstyle119/Task-List-Project",
         "modal":"#modal-03"
       },
       {
@@ -153,7 +153,7 @@
         "category":"Project",
         "tags":"MAKSTYLE119, ContactManger",
         "image":"defg.jpg",
-        "url":"https://moizalikhan119.github.io/contactManegerByMAKSTYLE119/#/",
+        "url":"https://makstyle119.github.io/contactManegerByMAKSTYLE119/#/",
         "modal":"#modal-04"
       },
       {
@@ -162,7 +162,7 @@
         "category":"Project",
         "tags":"MAKSTYLE119, TASKLISK",
         "image":"efgh.jpg",
-        "url":"https://github.com/moizalikhan119/JS",
+        "url":"https://github.com/makstyle119/JS",
         "modal":"#modal-05"
       },
       {
